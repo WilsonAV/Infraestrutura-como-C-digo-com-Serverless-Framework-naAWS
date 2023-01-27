@@ -1,2 +1,2 @@
-# Infraestrutura-como-C-digo-com-Serverless-Framework-naAWS
+# Infraestrutura-como-Codigo-com-Serverless-Framework-naAWS
 Projeto BootCamp DIO
