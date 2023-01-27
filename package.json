@@ -1,0 +1,19 @@
+{
+  "name": "serverless-aws",
+  "version": "1.0.0",
+  "description": "Projeto BootCamp DIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilsonAV/Infraestrutura-como-C-digo-com-Serverless-Framework-naAWS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilsonAV/Infraestrutura-como-C-digo-com-Serverless-Framework-naAWS/issues"
+  },
+  "homepage": "https://github.com/WilsonAV/Infraestrutura-como-C-digo-com-Serverless-Framework-naAWS#readme"
+}
